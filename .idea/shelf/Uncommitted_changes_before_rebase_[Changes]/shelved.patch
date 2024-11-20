@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"2dca4dc1-548d-493c-9369-4b54f1b8dea2\" name=\"Changes\" comment=\"updates\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\n  \"selectedUrlAndAccountId\": {\n    \"url\": \"git@github.com:/sireeshakuppampati/Recursion-and-Binary-Conversion.git\",\n    \"accountId\": \"ec32e4a3-f03e-44f6-b20d-5bcebeb614b9\"\n  }\n}]]></component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6\n}</component>\n  <component name=\"ProjectId\" id=\"2p85WMhB9wEK6PZEZo0ZStWeayM\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.BinaryConversion.executor\": \"Run\",\n    \"Application.RecursionDemo.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"onboarding.tips.debug.path\": \"/Users/keyinstudent/Documents/SEMESTER4/DSA/DSA-Assignment-7/Recursion-and-Binary-Conversion/src/main/java/com/Main.java\",\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.DirectoryMappings\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Application.BinaryConversion\">\n    <configuration name=\"BinaryConversion\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"BinaryConversion\" />\n      <module name=\"Recursion-and-Binary-Conversion\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"RecursionDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"RecursionDemo\" />\n      <module name=\"Recursion-and-Binary-Conversion\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.BinaryConversion\" />\n        <item itemvalue=\"Application.RecursionDemo\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"2dca4dc1-548d-493c-9369-4b54f1b8dea2\" name=\"Changes\" comment=\"\" />\n      <created>1732134892750</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1732134892750</updated>\n      <workItem from=\"1732134893769\" duration=\"53000\" />\n      <workItem from=\"1732134990196\" duration=\"437000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732135238297</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732135238297</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732135252725</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732135252725</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732135285210</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732135285210</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"updates\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732135391229</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732135391229</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"updates\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1732135413971</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1732135413971</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"6\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Initial commit\" />\n    <MESSAGE value=\"updates\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"updates\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/com/Main.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 22d77e4177da872dd5fa42f94c14612a2412052b)
++++ b/.idea/workspace.xml	(date 1732135738222)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2dca4dc1-548d-493c-9369-4b54f1b8dea2" name="Changes" comment="updates" />
++    <list default="true" id="2dca4dc1-548d-493c-9369-4b54f1b8dea2" name="Changes" comment="updates">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -19,7 +21,14 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "sireeshakuppampati"
++  }
++}]]></component>
+   <component name="GithubPullRequestsUISettings"><![CDATA[{
+   "selectedUrlAndAccountId": {
+     "url": "git@github.com:/sireeshakuppampati/Recursion-and-Binary-Conversion.git",
+@@ -92,7 +101,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1732134892750</updated>
+       <workItem from="1732134893769" duration="53000" />
+-      <workItem from="1732134990196" duration="437000" />
++      <workItem from="1732134990196" duration="746000" />
+     </task>
+     <task id="LOCAL-00001" summary="Initial commit">
+       <option name="closed" value="true" />
+@@ -134,7 +143,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1732135413971</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="updates">
++      <option name="closed" value="true" />
++      <created>1732135474463</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1732135474463</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
